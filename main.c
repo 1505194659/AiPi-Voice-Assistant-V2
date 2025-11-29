@@ -508,6 +508,21 @@ char* record_and_transcribe_realtime(uint32_t max_duration_ms)
     }
 
     bflb_i2s_feature_control(i2s0, I2S_CMD_DATA_ENABLE, 0);
+
+    // CRITICAL FIX: Send any remaining audio in batch buffer before ending
+    // Without this, the last few chunks (up to 1 second) were never sent to server
+    // causing speech to be truncated
+    // Fixed by Claude (claude-opus-4-5-20251101)
+    if (batch_buffer && batch_len > 0) {
+        LOG_I("Sending remaining batch audio (%d bytes, %.2f seconds)...\r\n",
+              batch_len, (float)batch_len / (AUDIO_SAMPLE_RATE * 2 * 2));
+        int sent = stt_send_audio_chunk(batch_buffer, batch_len);
+        if (sent < 0) {
+            LOG_E("Failed to send remaining batch audio\r\n");
+        }
+        batch_len = 0;  // Reset for next recording session
+    }
+
     LOG_I("Recording done (%d chunks, %d ms)\r\n", chunk_count, total_time);
 
     // Wait for final transcription
