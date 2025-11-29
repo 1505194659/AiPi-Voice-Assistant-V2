@@ -438,9 +438,17 @@ char* record_and_transcribe_realtime(uint32_t max_duration_ms)
         #define BATCH_SIZE 4
         static uint8_t *batch_buffer = NULL;
         static uint32_t batch_len = 0;
-        
+
+        // Initialize batch buffer on first use
         if (batch_buffer == NULL) {
             batch_buffer = pvPortMalloc(CHUNK_SIZE * BATCH_SIZE);
+            batch_len = 0;  // Ensure clean start
+        }
+
+        // Reset batch_len at start of new recording session (first chunk)
+        // Fixed by Claude (claude-opus-4-5-20251101): batch_len was not reset between sessions
+        if (chunk_count == 1) {
+            batch_len = 0;
         }
         
         if (batch_buffer) {
