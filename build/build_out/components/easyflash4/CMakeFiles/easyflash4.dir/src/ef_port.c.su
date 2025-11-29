@@ -1,0 +1,9 @@
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\easyflash4\src\ef_port.c:57:11:ef_port_init	48	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\easyflash4\src\ef_port.c:107:11:ef_port_read	16	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\easyflash4\src\ef_port.c:130:11:ef_port_erase	16	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\easyflash4\src\ef_port.c:154:11:ef_port_write	16	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\easyflash4\src\ef_port.c:170:6:ef_port_env_lock	0	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\easyflash4\src\ef_port.c:186:6:ef_port_env_unlock	0	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\easyflash4\src\ef_port.c:205:6:ef_log_debug	32	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\easyflash4\src\ef_port.c:229:6:ef_log_info	32	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\easyflash4\src\ef_port.c:246:6:ef_print	32	static

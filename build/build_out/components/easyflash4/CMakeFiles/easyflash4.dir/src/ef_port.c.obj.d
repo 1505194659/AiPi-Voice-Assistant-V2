@@ -1,0 +1,26 @@
+build_out/components/easyflash4/CMakeFiles/easyflash4.dir/src/ef_port.c.obj: \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\easyflash4\src\ef_port.c \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\easyflash4\inc/easyflash.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\easyflash4\inc/ef_cfg.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\easyflash4\inc/ef_def.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\os\freertos\include/FreeRTOS.h \
+ d:\aipi-open-kits2\aipi-voice-assistant-v2\freertosconfig.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\os\freertos\include/projdefs.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\os\freertos\include/portable.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\os\freertos\include/deprecated_definitions.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\os\freertos\portable\GCC\RISC-V\common/portmacro.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\os\freertos\include/mpu_wrappers.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\os\freertos\include/semphr.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\os\freertos\include/queue.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\os\freertos\include/task.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\os\freertos\include/list.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\utils\bflb_mtd\include/bflb_mtd.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\drivers\lhal\include/bflb_core.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\drivers\lhal\include\arch/risc-v/csr.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\drivers\lhal\include\arch/risc-v/riscv_arch.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\drivers\lhal\include/compiler/compiler_gcc.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\drivers\lhal\include/compiler/compiler_ld.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\drivers\lhal\include/bflb_common.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\drivers\lhal\include/bflb_mtimer.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\drivers\lhal\include/bflb_irq.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\drivers\lhal\include/bflb_l1c.h

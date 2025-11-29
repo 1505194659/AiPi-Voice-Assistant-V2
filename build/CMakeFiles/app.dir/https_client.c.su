@@ -1,0 +1,4 @@
+D:\AiPi-Open-Kits2\AiPi-Voice-Assistant-V2\https_client.c:30:12:parse_url	32	static
+D:\AiPi-Open-Kits2\AiPi-Voice-Assistant-V2\https_client.c:455:7:https_request	2672	static
+D:\AiPi-Open-Kits2\AiPi-Voice-Assistant-V2\https_client.c:480:7:https_request_large	1392	static
+D:\AiPi-Open-Kits2\AiPi-Voice-Assistant-V2\https_client.c:674:7:https_post_audio	1408	static

@@ -1,0 +1,16 @@
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\bsp\board\bl616dk\board.c:126:10:board_psram_x8_init	48	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\bsp\board\bl616dk\board.c:141:6:bl_show_log	16	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\bsp\board\bl616dk\board.c:155:6:bl_show_flashinfo	112	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\bsp\board\bl616dk\board.c:207:6:board_init	112	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\bsp\board\bl616dk\board.c:259:6:board_uartx_gpio_init	16	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\bsp\board\bl616dk\board.c:271:6:board_i2c0_gpio_init	16	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\bsp\board\bl616dk\board.c:282:6:board_spi0_gpio_init	16	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\bsp\board\bl616dk\board.c:297:6:board_pwm_gpio_init	16	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\bsp\board\bl616dk\board.c:312:6:board_adc_gpio_init	16	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\bsp\board\bl616dk\board.c:343:6:board_dac_gpio_init	16	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\bsp\board\bl616dk\board.c:354:6:board_emac_gpio_init	16	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\bsp\board\bl616dk\board.c:375:6:board_sdh_gpio_init	16	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\bsp\board\bl616dk\board.c:388:6:board_ir_gpio_init	16	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\bsp\board\bl616dk\board.c:397:6:board_dvp_gpio_init	16	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\bsp\board\bl616dk\board.c:464:6:board_i2s_gpio_init	16	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\bsp\board\bl616dk\board.c:475:6:board_acomp_init	32	static

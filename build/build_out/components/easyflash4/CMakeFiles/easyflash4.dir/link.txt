@@ -1,0 +1,2 @@
+riscv64-unknown-elf-ar.exe qc ..\..\lib\libeasyflash4.a CMakeFiles/easyflash4.dir/src/easyflash.c.obj CMakeFiles/easyflash4.dir/src/ef_env.c.obj CMakeFiles/easyflash4.dir/src/ef_env_legacy_wl.c.obj CMakeFiles/easyflash4.dir/src/ef_env_legacy.c.obj CMakeFiles/easyflash4.dir/src/ef_port.c.obj CMakeFiles/easyflash4.dir/src/ef_utils.c.obj CMakeFiles/easyflash4.dir/src/easyflash_cli.c.obj
+riscv64-unknown-elf-ranlib.exe ..\..\lib\libeasyflash4.a

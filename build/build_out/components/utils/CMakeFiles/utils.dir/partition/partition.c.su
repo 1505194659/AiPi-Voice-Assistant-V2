@@ -1,0 +1,9 @@
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\utils\partition\partition.c:143:6:pt_table_set_flash_operation	0	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\utils\partition\partition.c:158:18:pt_table_get_active_partition_need_lock	32	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\utils\partition\partition.c:200:21:pt_table_get_active_entries_by_id	16	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\utils\partition\partition.c:230:21:pt_table_get_active_entries_by_name	48	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\utils\partition\partition.c:262:21:pt_table_update_entry	32	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\utils\partition\partition.c:347:21:pt_table_create	32	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\utils\partition\partition.c:388:21:pt_table_dump	1264	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\utils\partition\partition.c:436:21:pt_table_get_iap_para	1232	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\utils\partition\partition.c:480:21:pt_table_set_iap_para	1216	static

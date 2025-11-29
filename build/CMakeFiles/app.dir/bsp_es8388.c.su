@@ -1,0 +1,9 @@
+D:\AiPi-Open-Kits2\AiPi-Voice-Assistant-V2\bsp_es8388.c:88:6:ES8388_I2C_Init	16	static
+D:\AiPi-Open-Kits2\AiPi-Voice-Assistant-V2\bsp_es8388.c:110:5:ES8388_Write_Reg	32	static
+D:\AiPi-Open-Kits2\AiPi-Voice-Assistant-V2\bsp_es8388.c:133:5:ES8388_Read_Reg	32	static
+D:\AiPi-Open-Kits2\AiPi-Voice-Assistant-V2\bsp_es8388.c:155:6:ES8388_Codec_Mode	64	static
+D:\AiPi-Open-Kits2\AiPi-Voice-Assistant-V2\bsp_es8388.c:267:6:ES8388_Recording_Mode	64	static
+D:\AiPi-Open-Kits2\AiPi-Voice-Assistant-V2\bsp_es8388.c:346:6:ES8388_Playback_Mode	64	static
+D:\AiPi-Open-Kits2\AiPi-Voice-Assistant-V2\bsp_es8388.c:416:5:ES8388_Set_Voice_Volume	64	static
+D:\AiPi-Open-Kits2\AiPi-Voice-Assistant-V2\bsp_es8388.c:442:6:ES8388_Reg_Dump	64	static
+D:\AiPi-Open-Kits2\AiPi-Voice-Assistant-V2\bsp_es8388.c:470:6:ES8388_Init	16	static

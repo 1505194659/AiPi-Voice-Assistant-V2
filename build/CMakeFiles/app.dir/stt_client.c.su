@@ -1,0 +1,7 @@
+D:\AiPi-Open-Kits2\AiPi-Voice-Assistant-V2\stt_client.c:18:5:stt_init	16	static
+D:\AiPi-Open-Kits2\AiPi-Voice-Assistant-V2\stt_client.c:31:5:stt_connect	16	static
+D:\AiPi-Open-Kits2\AiPi-Voice-Assistant-V2\stt_client.c:50:5:stt_send_audio_chunk	16	static
+D:\AiPi-Open-Kits2\AiPi-Voice-Assistant-V2\stt_client.c:85:5:stt_recv_transcription	1072	static
+D:\AiPi-Open-Kits2\AiPi-Voice-Assistant-V2\stt_client.c:165:5:stt_send_end_of_audio	16	static
+D:\AiPi-Open-Kits2\AiPi-Voice-Assistant-V2\stt_client.c:171:6:stt_disconnect	16	static
+D:\AiPi-Open-Kits2\AiPi-Voice-Assistant-V2\stt_client.c:177:6:stt_is_connected	0	static

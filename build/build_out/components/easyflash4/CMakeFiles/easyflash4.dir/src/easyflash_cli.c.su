@@ -1,0 +1,6 @@
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\easyflash4\src\easyflash_cli.c:22:1:psmcli_set_cmd	16	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\easyflash4\src\easyflash_cli.c:32:1:psmcli_unset_cmd	16	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\easyflash4\src\easyflash_cli.c:42:1:psmcli_dump_cmd	0	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\easyflash4\src\easyflash_cli.c:47:1:psmcli_erase_cmd	0	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\easyflash4\src\easyflash_cli.c:52:1:psmcli_test_cmd	96	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\easyflash4\src\easyflash_cli.c:128:5:easyflash_cli_init	0	static

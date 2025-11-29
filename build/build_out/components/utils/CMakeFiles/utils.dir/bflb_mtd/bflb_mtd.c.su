@@ -1,0 +1,9 @@
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\utils\bflb_mtd\bflb_mtd.c:88:6:bflb_mtd_init	0	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\utils\bflb_mtd\bflb_mtd.c:93:5:bflb_mtd_open	64	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\utils\bflb_mtd\bflb_mtd.c:157:5:bflb_mtd_close	16	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\utils\bflb_mtd\bflb_mtd.c:164:5:bflb_mtd_info	16	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\utils\bflb_mtd\bflb_mtd.c:176:5:bflb_mtd_erase	16	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\utils\bflb_mtd\bflb_mtd.c:188:5:bflb_mtd_erase_all	16	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\utils\bflb_mtd\bflb_mtd.c:200:5:bflb_mtd_write	96	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\utils\bflb_mtd\bflb_mtd.c:215:5:bflb_mtd_read	16	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\utils\bflb_mtd\bflb_mtd.c:228:5:bflb_mtd_size	0	static

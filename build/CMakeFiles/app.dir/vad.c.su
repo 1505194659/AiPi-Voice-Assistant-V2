@@ -1,0 +1,4 @@
+D:\AiPi-Open-Kits2\AiPi-Voice-Assistant-V2\vad.c:5:6:vad_init	0	static
+D:\AiPi-Open-Kits2\AiPi-Voice-Assistant-V2\vad.c:9:6:vad_process_frame	32	static
+D:\AiPi-Open-Kits2\AiPi-Voice-Assistant-V2\vad.c:39:6:vad_speech_ended	0	static
+D:\AiPi-Open-Kits2\AiPi-Voice-Assistant-V2\vad.c:44:6:vad_has_speech	0	static

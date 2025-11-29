@@ -1,0 +1,15 @@
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\net\lwip\lwip\src\apps\sntp\sntp.c:364:13:sntp_retry	16	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\net\lwip\lwip\src\apps\sntp\sntp.c:546:13:sntp_send_request	16	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\net\lwip\lwip\src\apps\sntp\sntp.c:608:13:sntp_request	32	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\net\lwip\lwip\src\apps\sntp\sntp.c:585:13:sntp_dns_found	16	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\net\lwip\lwip\src\apps\sntp\sntp.c:437:13:sntp_recv	32	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\net\lwip\lwip\src\apps\sntp\sntp.c:654:6:sntp_init	16	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\net\lwip\lwip\src\apps\sntp\sntp.c:692:6:sntp_stop	16	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\net\lwip\lwip\src\apps\sntp\sntp.c:716:6:sntp_enabled	0	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\net\lwip\lwip\src\apps\sntp\sntp.c:726:6:sntp_setoperatingmode	16	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\net\lwip\lwip\src\apps\sntp\sntp.c:738:6:sntp_getoperatingmode	0	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\net\lwip\lwip\src\apps\sntp\sntp.c:750:6:sntp_getreachability	0	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\net\lwip\lwip\src\apps\sntp\sntp.c:783:6:sntp_setserver	0	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\net\lwip\lwip\src\apps\sntp\sntp.c:837:18:sntp_getserver	0	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\net\lwip\lwip\src\apps\sntp\sntp.c:853:6:sntp_setservername	0	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\net\lwip\lwip\src\apps\sntp\sntp.c:869:13:sntp_getservername	0	static

@@ -1,0 +1,32 @@
+build_out/components/net/lwip/lwip/CMakeFiles/lwip.dir/system/os/sys_arch.c.obj: \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\net\lwip\lwip\system\os\sys_arch.c \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\net\lwip\lwip\src\include/lwip/debug.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\net\lwip\lwip\src\include/lwip/arch.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\net\lwip\lwip\system/arch/cc.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\net\lwip\lwip\system/arch/cpu.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\net\lwip\lwip\system/arch/sys_arch.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\net\lwip\lwip\src\include/lwip/opt.h \
+ d:\aipi-open-kits2\aipi-voice-assistant-v2\lwipopts_user.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\os\freertos\include/FreeRTOS.h \
+ d:\aipi-open-kits2\aipi-voice-assistant-v2\freertosconfig.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\os\freertos\include/projdefs.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\os\freertos\include/portable.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\os\freertos\include/deprecated_definitions.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\os\freertos\portable\GCC\RISC-V\common/portmacro.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\os\freertos\include/mpu_wrappers.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\os\freertos\include/task.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\os\freertos\include/list.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\os\freertos\include/queue.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\os\freertos\include/task.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\os\freertos\include/semphr.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\os\freertos\include/queue.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\net\lwip\lwip\src\include/lwip/def.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\net\lwip\lwip\src\include/lwip/sys.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\net\lwip\lwip\src\include/lwip/err.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\net\lwip\lwip\system/arch/sys_arch.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\net\lwip\lwip\src\include/lwip/mem.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\net\lwip\lwip\src\include/lwip/stats.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\net\lwip\lwip\src\include/lwip/memp.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\net\lwip\lwip\src\include/lwip/priv/memp_std.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\net\lwip\lwip\src\include/lwip/priv/memp_priv.h \
+ D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\net\lwip\lwip\src\include/lwip/priv/mem_priv.h

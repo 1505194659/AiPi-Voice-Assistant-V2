@@ -1,0 +1,5 @@
+D:\AiPi-Open-Kits2\AiPi-Voice-Assistant-V2\tts_client.c:54:13:tts_dma_isr	0	static
+D:\AiPi-Open-Kits2\AiPi-Voice-Assistant-V2\tts_client.c:71:13:play_buffer_non_blocking	48	static
+D:\AiPi-Open-Kits2\AiPi-Voice-Assistant-V2\tts_client.c:123:5:tts_synthesize_and_play_streaming	1472	static
+D:\AiPi-Open-Kits2\AiPi-Voice-Assistant-V2\tts_client.c:576:5:tts_synthesize	16	static
+D:\AiPi-Open-Kits2\AiPi-Voice-Assistant-V2\tts_client.c:584:5:tts_play_audio	16	static

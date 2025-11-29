@@ -1,0 +1,15 @@
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\utils\bflb_mtd\bflb_boot2.c:31:13:_dump_partition	48	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\utils\bflb_mtd\bflb_boot2.c:61:5:bflb_boot2_partition_bus_addr.part.0	48	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\utils\bflb_mtd\bflb_boot2.c:19:5:bflb_boot2_update_ptable	16	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\utils\bflb_mtd\bflb_boot2.c:61:5:bflb_boot2_partition_bus_addr	0	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\utils\bflb_mtd\bflb_boot2.c:111:5:bflb_boot2_partition_bus_addr_active	48	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\utils\bflb_mtd\bflb_boot2.c:126:5:bflb_boot2_partition_bus_addr_inactive	48	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\utils\bflb_mtd\bflb_boot2.c:141:5:bflb_boot2_partition_addr	48	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\utils\bflb_mtd\bflb_boot2.c:167:5:bflb_boot2_partition_addr_active	32	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\utils\bflb_mtd\bflb_boot2.c:182:5:bflb_boot2_partition_addr_inactive	32	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\utils\bflb_mtd\bflb_boot2.c:197:9:bflb_boot2_get_active_partition	0	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\utils\bflb_mtd\bflb_boot2.c:202:5:bflb_boot2_get_active_entries_byname	16	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\utils\bflb_mtd\bflb_boot2.c:211:5:bflb_boot2_get_active_entries	16	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\utils\bflb_mtd\bflb_boot2.c:220:5:bflb_boot2_dump	16	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\utils\bflb_mtd\bflb_boot2.c:226:5:bflb_boot2_init	1216	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\utils\bflb_mtd\bflb_boot2.c:254:6:bflb_update_mfg_ptable	112	static

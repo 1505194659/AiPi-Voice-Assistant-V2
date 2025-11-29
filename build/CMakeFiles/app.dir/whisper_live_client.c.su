@@ -1,0 +1,8 @@
+D:\AiPi-Open-Kits2\AiPi-Voice-Assistant-V2\whisper_live_client.c:127:12:send_ws_frame	1088	static
+D:\AiPi-Open-Kits2\AiPi-Voice-Assistant-V2\whisper_live_client.c:327:5:whisper_live_recv_transcription.part.0	336	static
+D:\AiPi-Open-Kits2\AiPi-Voice-Assistant-V2\whisper_live_client.c:204:5:whisper_live_init	32	static
+D:\AiPi-Open-Kits2\AiPi-Voice-Assistant-V2\whisper_live_client.c:224:5:whisper_live_connect	1600	static
+D:\AiPi-Open-Kits2\AiPi-Voice-Assistant-V2\whisper_live_client.c:317:5:whisper_live_send_audio	0	static
+D:\AiPi-Open-Kits2\AiPi-Voice-Assistant-V2\whisper_live_client.c:327:5:whisper_live_recv_transcription	32	static
+D:\AiPi-Open-Kits2\AiPi-Voice-Assistant-V2\whisper_live_client.c:434:5:whisper_live_send_end_of_audio	16	static
+D:\AiPi-Open-Kits2\AiPi-Voice-Assistant-V2\whisper_live_client.c:447:6:whisper_live_disconnect	176	static

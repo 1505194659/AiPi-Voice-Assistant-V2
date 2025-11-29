@@ -1,0 +1,3 @@
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\net\lwip\lwip_apps\ping\ping.c:68:7:lwip_ping_send	48	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\net\lwip\lwip_apps\ping\ping.c:99:5:lwip_ping_recv	128	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\net\lwip\lwip_apps\ping\ping.c:122:10:ping	240	static

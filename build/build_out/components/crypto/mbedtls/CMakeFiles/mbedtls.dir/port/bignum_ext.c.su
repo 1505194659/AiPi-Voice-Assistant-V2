@@ -1,0 +1,6 @@
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\crypto\mbedtls\port\bignum_ext.c:16:6:dump_mpi	32	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\crypto\mbedtls\port\bignum_ext.c:35:8:mpi_words	0	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\crypto\mbedtls\port\bignum_ext.c:46:5:mpi_clear_upper_bits	0	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\crypto\mbedtls\port\bignum_ext.c:68:5:mpi_mod_2n	32	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\crypto\mbedtls\port\bignum_ext.c:87:5:mpi_hensel_quad_mod_inv_prime_n	64	static
+D:\AiPi-Open-Kits2\aithinker_Ai-M6X_SDK\components\crypto\mbedtls\port\bignum_ext.c:132:5:mpi_scalar_encode	32	static
